@@ -25,10 +25,10 @@ button:focus {
 }
 
 .kj{
-  border:1px solid #333333;
+    border-left:1px solid #333333;
   padding: 10px;
   display: inline-block;
-  border-radius: 5px;
+
 }
 .flex{
   display: flex;
